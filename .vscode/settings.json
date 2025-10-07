@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 12,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "jupyter.showVariableViewWhenDebugging": true,
+    "jupyter.themeMatplotlibPlots": true,
+    // "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "python.languageServer": "Pylance",
+    "python.autoComplete.showBuiltin": true,
+    "python.autoComplete.extraPaths": [] ,
+    "python.autoComplete.showVariables": true,
+    "python.autoComplete.showFunctionSignatures": true
+    
+    
+}
