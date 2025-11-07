@@ -1,0 +1,1 @@
+# Inside each of the chapter folders there is a markdown file with notes on the chapte subjects
